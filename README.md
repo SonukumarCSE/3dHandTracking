@@ -29,7 +29,7 @@ pip install opencv-python mediapipe streamlit numpy
 To run the app locally, use the following command:
 
 ```bash
-streamlit run path/to/your/3dHand.py
+streamlit run 3dHand.py
 ```
 
 Make sure to replace `path/to/your/3dHand.py` with the actual path to your Python script.
