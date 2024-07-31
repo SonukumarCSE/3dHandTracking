@@ -32,8 +32,6 @@ To run the app locally, use the following command:
 streamlit run 3dHand.py
 ```
 
-Make sure to replace `path/to/your/3dHand.py` with the actual path to your Python script.
-
 ## Code Explanation
 
 The core components of the code are:
